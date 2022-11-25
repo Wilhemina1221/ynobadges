@@ -1685,27 +1685,27 @@
       "condition": "爬上金字塔，打倒法老，成为梦2记黄金会员™。"
     },
     "gb_memories": {
-      "name": "GB Memories",
-      "description": "Remember this?",
-      "condition": "Witness every secret in the Monochrome GB World and sit on the bench at the end of NES Glitch Tunnel."
+      "name": "破碎忆念",
+      "description": "记得的，还记得吗？",
+      "condition": "见证 Monochrome GB World 中的每一个隐藏事件后坐在 NES Glitch Tunnel 尽头的长椅上"
     },
     "bunny_cocktail": {
-      "name": "Bunny Cocktail",
-      "description": "Bnuuy!",
-      "condition": "Reveal the hidden bunny in Cocktail Lounge using the Bunny Ears."
+      "name": "兔兔鸡尾酒",
+      "description": "兔兔！",
+      "condition": "在 Cocktail Lounge 中使用兔耳效果找出隐藏的兔子"
     },
     "sweet_poison": {
-      "name": "Sweet Poison",
-      "condition": "Interact with the scientists while using the Drum effect in the Toxic Chemical World."
+      "name": "甜心毒药",
+      "condition": "在 Toxic Chemical World 中装备铁桶效果与科学家们互动"
     },
     "celestial_garden": {
-      "name": "Transcendental Island",
-      "description": "High up in the clouds, where spirits can roam freely.",
-      "condition": "Enter Celestial Garden."
+      "name": "超验之域",
+      "description": "飞跃云上，愿灵魂能得到自由……",
+      "condition": "进入 Celestial Garden."
     },
     "conway": {
-      "name": "Digital Glider",
-      "condition": "Visit the Conway area in Symbolon."
+      "name": "虚拟天际",
+      "condition": "进入 Symbolon 中的生命游戏区域（康威区块）"
     }
   },
   "flow": {
